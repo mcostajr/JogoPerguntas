@@ -10,6 +10,8 @@ import androidx.room.RoomDatabase;
 @Database(entities = {Questoes.class}, version = 1)
 public abstract class BancoDeDados extends RoomDatabase {
 
+    public abstract QuestaoDAO getDAO();
+
     // Instância única para o banco de dados
     private static BancoDeDados instanciaBancoDeDados;
 

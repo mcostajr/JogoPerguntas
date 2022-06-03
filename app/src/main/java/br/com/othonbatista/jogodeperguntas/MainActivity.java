@@ -2,6 +2,7 @@ package br.com.othonbatista.jogodeperguntas;
 
 import android.os.Bundle;
 import android.view.View;
+import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -33,5 +34,4 @@ public class MainActivity extends AppCompatActivity {
                 .replace(R.id.frameLayout, new JogarFragment())
                 .commit();
     }
-
 }

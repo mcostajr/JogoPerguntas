@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mauro/projects/JogoPerguntas/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Mauro/projects/JogoPerguntas/app/src/main/res/layout/fragment_cadastrar.xml" value="0.18" />
+        <entry key="..\:/Users/Mauro/projects/JogoPerguntas/app/src/main/res/layout/fragment_jogar.xml" value="0.21" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.3453125" />
         <entry key="app/src/main/res/layout/fragment_cadastrar.xml" value="0.32407407407407407" />
         <entry key="app/src/main/res/layout/fragment_jogar.xml" value="0.33" />
